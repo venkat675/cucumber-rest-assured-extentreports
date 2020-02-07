@@ -153,7 +153,7 @@ Feature: GET: Automated Demo Tests
       | TestName  | URL               | ContentType      | RequestBody | RequestMethod | StatusCode |
       | Demo test | /api/users?page=2 | application/json |             | GET           |        200 |
 ```
-
+* Find the extent reports in following path after execution : ```src\test\reports\cucumber_report.html```
 ## Support
 
 Reach out to me at one of the following places!
